@@ -1,6 +1,5 @@
 import PollCard from './components/PollCard';
 import ResultsChart from './components/ResultsChart';
-import './styles.css';
 
 export default function App() {
   return (
